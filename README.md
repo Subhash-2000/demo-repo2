@@ -13,3 +13,10 @@ So, We want to create a repository in github then copy that https url and put it
 (or)
 git push -u origin master [By this command in next time i dont want to type fully like this rather i can type as git push thats it]
 {-u means upstream, its basically we are setting default to push any changes}
+By this we have successfully added the folder/project to github
+
+Doing git braching:
+
+1. We went to folder called demo-repo then we type command called "git branch" which will shows current branch that we are in that repository.
+2. Then the commad called git checkout [Which will basically ussed to switch between branches]
+But to tell to create a new branch we use command like -b feature-readme-instruction [git checkout -b branchNameToCreate]
